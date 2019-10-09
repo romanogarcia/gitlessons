@@ -1,0 +1,44 @@
+  349  mv gitlearning learning
+  350  cd learning
+  351  git clone https://github.com/romanogarcia/gitlessons.git
+  352  ls
+  353  cd gitlessons
+  354  ls
+  355  ls -la
+  356  git status
+  357  git pull
+  358  git status
+  359  git add new.txt
+  360  git commit -m "commit from local"
+  361  git log
+  362  git status
+  363  git pull
+  364  git status
+  365  git add .
+  366  git status
+  367  git commit
+  368  git log
+  369  git push origin master
+  370  another scenario
+  371  history
+  372  git status
+  373  git rebase
+  374  git stash
+  375  git status
+  376  git rebase
+  377  git stash list
+  378  git stash pop stash@{0}
+  379  git status
+  380  git add .
+  381  history
+  382  git commit -m "mali"
+  383  git push origin master
+  384  git pull
+  385  git status
+  386  git add .
+  387  git commit -m "mdm"
+  388  git push origin master
+  389  git status
+  390  clear
+  391  history
+  392  history > gitcmd.txt
