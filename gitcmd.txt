@@ -42,3 +42,14 @@
   390  clear
   391  history
   392  history > gitcmd.txt
+  414  ****
+  415  git pull ( conflicts start here, get the added lines from github )
+  416  git add git7 ( it will merge all lines and edit them )
+  417  git commit -m "commited new line from local" ( after editing use thi command )
+  418  git pull ( will pull the github update )
+  419  git add . ( add your the edited codes )
+  420  git status ( check status )
+  421  git commit ( commit again )
+  422  git log
+  423  git push origin master ( push again )
+  424  history
