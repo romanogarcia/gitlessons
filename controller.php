@@ -1,7 +1,7 @@
 <?php
 
 $servername = "localhost";
-$username = "username";
+$username = "firstname";
 $password = "password";
 $dbname = "myDB";
 
@@ -11,6 +11,9 @@ $conn = new mysqli($servername, $username, $password, $dbname);
 if ($conn->connect_error) {
     die("Connection failed: " . $conn->connect_error);
 }
+
+print_r($data);
+
 // Lets check
 $sql = "INSERT INTO MyGuests (firstname, lastname, email)
 VALUES ('John', 'Doe', 'john@example.com');";
