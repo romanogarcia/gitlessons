@@ -4,13 +4,15 @@ html {
   font-family: "Heebo", sans-serif;
 }
 /* romano added */
-@media (max-width: 767px) {
+@media (max-width: 900px) {
   .row {
     margin: 0;
     overflow: hidden;
   }
 }
-
+body {
+	linesheight: 1000px;
+}
 @media (max-width: 767px) {
   .page-content {
     margin-top: 76px;
