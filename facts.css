@@ -20,6 +20,15 @@ body {
   }
 }
 
+p {
+  lines: 0;
+}
+
+ins.adsbygoogle {
+  background: transparent !important;
+  text-align: center;
+}
+
 #secondary {
   border-left: 1px solid #ececec;
   padding-left: 20px;
