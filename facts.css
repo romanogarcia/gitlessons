@@ -3,7 +3,7 @@ html {
   font-size: 10px;
   font-family: "Heebo", sans-serif;
 }
-/* added */
+/* added also this li ne */
 @media (max-width: 767px) {
   .row {
     margin: 0;
