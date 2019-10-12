@@ -4,9 +4,14 @@ Lines inserted
 Commit -23 from locals
 LINES
 COKE
+<<<<<<< HEAD
 Twilight Eclipse
+=======
+EclipseSSSSSS
+>>>>>>> 55130d55e94d192f640f8124d67dcbbf26ff7bc8
 Banana
 Atis
 Avocados naman
 Git
 Mansanas
+PEPSI
