@@ -1,4 +1,3 @@
-Commit -1 edited local
+Commit -1 edited localed
 Commit -2 from locals
-Eclipse
 Banana
