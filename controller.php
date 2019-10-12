@@ -19,6 +19,8 @@ VALUES ('Mary', 'Moe', 'mary@example.com');";
 $sql .= "INSERT INTO MyGuests (firstname, lastname, email)
 VALUES ('Julie', 'Dooley', 'julie@example.com')";
 
+echo "Hello Line";
+
 if ($conn->multi_query($sql) === TRUE) {
     echo "New records created successfully";
 } else {
@@ -26,5 +28,5 @@ if ($conn->multi_query($sql) === TRUE) {
 }
 
 $conn->close();
-
+// RONDOLETT
 ?>
