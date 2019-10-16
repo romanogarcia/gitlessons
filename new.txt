@@ -1,5 +1,6 @@
 Commit -1 edited localsddd
 APPLE
+KAMOTE
 BANANA
 Random 0
 AVOCADOS 11 22 33

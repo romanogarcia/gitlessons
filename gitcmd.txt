@@ -48,7 +48,8 @@
   417  git commit -m "commited new line from local" ( after editing use thi command )
   418  git pull ( will pull the github update )
   419  git add . ( add your the edited codes )
-  420  git status ( check status )
+  420  git status ( check status )guy.     Clear
+ 
   421  git commit ( commit again )
   422  git log
   423  git push origin master ( push again )
