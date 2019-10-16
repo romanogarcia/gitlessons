@@ -1,4 +1,5 @@
 gitlessons - you are in the master branch and merge the commits from staging
-
+	- if successful and no conflicts just push upstream
+	if with conflicts pull then edit manually and add to index
 factsnew - you are in the staging branch and get the changes from roman-dev
 	- if roman-dev you are merging the updates from staging.
