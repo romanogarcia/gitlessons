@@ -6,7 +6,6 @@ Random 0
 AVOCADOS 11 22 33
 STAGING
 ATIS
-MASTER
 mozilla
 Random dd 13 ss
 GITLESSONS
