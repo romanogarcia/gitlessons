@@ -10,7 +10,6 @@ STAGING
 ATIS
 MASTER
 mozilla
-Random dd 13 ss
 * HH
 GITLESSONS
 sugar
