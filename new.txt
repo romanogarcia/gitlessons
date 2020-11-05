@@ -10,6 +10,7 @@ AVOCADOS 11 22 33 44
 STAGING
 ATIS
 MASTER
+asin
 mozilla
 Random dd 13 ss
 * HH
