@@ -1,2 +1,3 @@
+The quick
 # gitlessons
-Solving conflicts
+Because of 
