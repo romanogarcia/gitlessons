@@ -1,8 +1,7 @@
 Commit -1 edited localsddd
 2nd ADDED
 APPLEd
-KAMOTE
-SIBUYAS
+KAMUTESTE
 BANANA
 Random 0
 * ABC
